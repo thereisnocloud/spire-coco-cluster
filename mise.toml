@@ -7,3 +7,5 @@ yq = "latest"
 kustomize = "latest"
 helmfile = "latest"
 helm = "latest"
+"aqua:fluxcd/flux2" = "2.8.3"
+
