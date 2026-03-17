@@ -1,0 +1,9 @@
+[tools]
+kind = "latest"
+kubectl = "latest"
+just = "latest"
+gum = "latest"
+yq = "latest"
+kustomize = "latest"
+helmfile = "latest"
+helm = "latest"
